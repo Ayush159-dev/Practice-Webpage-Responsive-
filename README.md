@@ -1,2 +1,1 @@
-# webpage
-This page was created using bootstrap, html and css.
+This is created using HTML, Bootstrap and CSS.
